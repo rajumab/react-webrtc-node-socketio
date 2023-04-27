@@ -1,0 +1,32 @@
+.user-list-none {
+  width: 18rem;
+  margin: 2rem;
+  text-align: center;
+}
+
+.user-list-online {
+  width: 18rem;
+  height: 4rem;
+  margin: 1rem;
+  border-radius: 20px;
+  background-color: #313344;
+}
+.user-list-btn {
+  background-color: #313344;
+}
+.user-list-online-item {
+  display: flex;
+  flex-direction: row;
+  padding: 1rem;
+  padding-left: 1.5rem;
+  align-items: center;
+}
+.user-list-txt {
+  margin-left: 1rem;
+  margin-right: 0.5rem;
+}
+.user-list-btns {
+  display: flex;
+  flex: 1;
+  flex-direction: row-reverse;
+}
